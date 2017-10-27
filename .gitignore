@@ -102,3 +102,6 @@ ENV/
 
 # Glove
 glove.6B.*
+
+# Newsgroup
+20_newsgroup
