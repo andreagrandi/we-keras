@@ -105,3 +105,6 @@ glove.6B.*
 
 # Newsgroup
 20_newsgroup
+
+# Models
+*.h5
